@@ -1,5 +1,353 @@
 [
   {
+    "id": 34,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Senam berirama adalah gerakan senam yang diiringi oleh musik atau lagu. Berikut ini yang merupakan jenis-jenis senam irama adalah ....",
+    "answers": [
+      {
+        "text": "backward roll",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "sikap lilin",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kayang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "SKJ",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr_0002.jpg",
+    "question": "Gambar tersebut merupakan salah satu gerak dasar dalam pencak silat, yaitu ….",
+    "answers": [
+      {
+        "text": "pukulan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tangkisan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tendangan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kuda-kuda",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Manfaat dari latihan lari zig-zag adalah untuk melatih ….",
+    "answers": [
+      {
+        "text": "keseimbangan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kelincahan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "kecepatan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kekuatan",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Start jongkok biasanya digunakan untuk jenis lari ....",
+    "answers": [
+      {
+        "text": "jarak pendek",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "jarak jauh",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "maraton",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "estafet",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Niko dan teman-temanya bermain kasti di lapangan. Gerakan dasar yang Niko lakukan pada awal permainan sebagai penjaga adalah ….",
+    "answers": [
+      {
+        "text": "menangkap bola",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "menggiring bola",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "melempar bola",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "memukul bola",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Futsal merupakan olahraga hasil pengembangan dari permainan ….",
+    "answers": [
+      {
+        "text": "kasti",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bola voli",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "sepak bola",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "bola basket",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Faktorisasi prima dari 90 adalah ........",
+    "answers": [
+      {
+        "text": "2 x 3² x 5",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "2² x 3 x 5",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "2² x 3² x 5",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "2 x 3 x 5",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil dari -25 - (-35) + 45 adalah ........",
+    "answers": [
+      {
+        "text": "-15",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "55",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "145",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Nilai tempat angka 7 pada bilangan 4.573.063 adalah ........",
+    "answers": [
+      {
+        "text": "ribuan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "puluh ribuan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "ratusan ribu",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "jutaan",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "FPB dan KPK dari 24, 36 dan 48 adalah ........",
+    "answers": [
+      {
+        "text": "6 dan 144",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "6 dan 288",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "12 dan 144",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "12 dan 288",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Perbandingan kelereng Farhan dan kelereng Adit adalah 3 : 7. Jika jumlah kelereng mereka 40 butir, maka jumlah kelereng Adit adalah ........",
+    "answers": [
+      {
+        "text": "12",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "20",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "28",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Penjualan 1 set meja makan Rp 1.375.000,00 dengan keuntungan 10%. Pembelian meja makan tersebut ........",
+    "answers": [
+      {
+        "text": "Rp 1.237.500,00",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Rp 1.250.000,00",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Rp 1.361.250,00",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Rp 1.312.500,00",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
     "id": 22,
     "pelajaran": "Matematika",
     "kelas": "6",
