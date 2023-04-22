@@ -1,5 +1,614 @@
 [
   {
+    "id": 55,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Ketika akan melakukan olahraga, kita harus melakukan gerakan pemanasan terlebih dahulu. Istilah lain yang digunakan untuk menyebut gerakan tersebut adalah ….",
+    "answers": [
+      {
+        "text": "lay up",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "warming up",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "core exercise",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "cooling down",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Istilah lain yang digunakan untuk menyebut gerakan guling belakang adalah ….",
+    "answers": [
+      {
+        "text": "handstand",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "headstand",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "forward roll",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "backward roll",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr_0004.jpg",
+    "question": "Gerakan yang ditunjukkan oleh gambar di atas berfungsi untuk melatih ....",
+    "answers": [
+      {
+        "text": "keseimbangan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "daya tahan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kelenturan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kekuatan",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Gerakan back up berfungsi untuk melatih kekuatan otot ….",
+    "answers": [
+      {
+        "text": "punngung",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "lengan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "perut",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kaki",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Gerakan sit up berfungsi untuk melatih kekuatan otot ....",
+    "answers": [
+      {
+        "text": "punngung",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "lengan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "perut",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "kaki",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Senam lantai adalah salah satu jenis senam yang gerakannya dilakukan di atas lantai. <br>Salah satu gerakan senam lantai adalah push up. <br>Gerakan tersebut berfungsi untuk melatih kekuatan otot ….",
+    "answers": [
+      {
+        "text": "punngung",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "lengan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "perut",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kaki",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Dalam seni bela diri terdapat beberapa macam sikap dasar. Salah satunya adalah sikap dengan posisi kaki tertentu sebagai dasar tumpuan. Sikap tersebut dinamakan sikap ....",
+    "answers": [
+      {
+        "text": "berdiri",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pasang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tangkapan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kuda-kuda",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Gerak dasar pencak silat yang bertujuan untuk membela diri dari serangan lawan yang dapat dilakukan tanpa menyentuh lawan adalah ….",
+    "answers": [
+      {
+        "text": "hindaran samping ",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "tendangan lurus",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "serangan tebak",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tangkisan luar",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Bela diri merupakan salah satu cabang olahraga. Olaraga bela diri yang berasal dari Indonesia adalah ….",
+    "answers": [
+      {
+        "text": "aikido",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "karate",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "taekwondo",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pencak silat",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Lari adalah salah satu cabang olahraga atletik. Gerakan lari dalam olahraga tersebut dibedakan menjadi beberapa macam. Salah satunya adalah lari cepat. Lari cepat memiliki istilah lain, yaitu ….",
+    "answers": [
+      {
+        "text": "sprint",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "estafet",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "jogging",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "marathon",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Gerakan dasar dalam permainan futsal yang bertujuan untuk menguasai bola adalah ...",
+    "answers": [
+      {
+        "text": "netting",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "passing",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "shooting",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "controlling",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Dalam permainan basket, anggota badan yang digunakan secara dominan adalah ….",
+    "answers": [
+      {
+        "text": "kaki",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "perut",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tangan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "kepala",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Fungsi dari gerakan passing dalam permainan bola voli adalah untuk ….",
+    "answers": [
+      {
+        "text": "mencetak poin",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "menyerang lawan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "menghalangi lawan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "mengumpan kepada teman",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr_003.gif",
+    "question": "Gambar di atas adalah salah satu gaya renang, yaitu gaya ....",
+    "answers": [
+      {
+        "text": "dada",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "katak",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bebas",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "punggung",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Senam berirama adalah senam yang dilakukan dengan menggunakan iringan musik atau lagu. Senam ini juga sering disebut dengan istilah senam ....",
+    "answers": [
+      {
+        "text": "lantai",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "ritmik",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "artistik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gimnastik",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Ketika kita menggantungkan kedua tangan kita di sebuah palang, otot yang dominan bekerja adalah otot ….",
+    "answers": [
+      {
+        "text": "lengan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "perut",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "paha",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kaki",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Olahraga berikut yang memiliki manfaat untuk melatih daya tahan jantung dan paru-paru adalah ....",
+    "answers": [
+      {
+        "text": "sit up",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "push up",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "back up",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "jogging",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Gerak kelenturan melatih kekuatan otot ….",
+    "answers": [
+      {
+        "text": "leher",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pinggang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "persendian",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "punggung",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Berikut ini yang tidak termasuk gerakan dasar langkah kaki dalam gerak berirama adalah gerakan langkah ….",
+    "answers": [
+      {
+        "text": "rapat",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "cepat",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "depan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "silang",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Pukulan yang pertama kali dilakukan untuk memulai permainan bola voli disebut ….",
+    "answers": [
+      {
+        "text": "servis",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "smash",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "passing",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "blocking",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pelajaran": "PJOK",
+    "kelas": "6",
+    "image": "",
+    "question": "Renang merupakan olahraga air yang memiliki teknik dan aturan yang sudah baku. Salah satu gaya renang dengan posisi tubuh perenang menelungkup sejajar dengan permukaan air disebut sebagai gaya ....",
+    "answers": [
+      {
+        "text": "dada",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "katak",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bebas",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "punggung",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
     "id": 34,
     "pelajaran": "PJOK",
     "kelas": "6",
@@ -48,12 +657,12 @@
       {
         "text": "tendangan",
         "image": "",
-        "correct": false
+        "correct": true
       },
       {
         "text": "kuda-kuda",
         "image": "",
-        "correct": true
+        "correct": false
       }
     ]
   },
