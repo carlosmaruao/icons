@@ -1,5 +1,585 @@
 [
   {
+    "id": 75,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pengambilan keputusan yang dilakukan secara lisan, caranya dengan mengangkat tangan atau berdiri disebut ....",
+    "answers": [
+      {
+        "text": "musyawarah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "voting tertutup",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "voting terbuka",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "aklamasi",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pemungutan suara yang mengikutsertakan rakyat disebut ....",
+    "answers": [
+      {
+        "text": "pemilu",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "musyawarah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "demokrasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "aklamasi",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Jika dalam suatu rapat tidak tercapai kata mufakat maka pengambilan keputusan dilakukan dengan cara ....",
+    "answers": [
+      {
+        "text": "musyawarah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "voting",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "diskusi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "aklamasi",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pemilihan ketua kelas secara langsung disebut ....",
+    "answers": [
+      {
+        "text": "musyawarah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "voting",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pemungutan suara",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "aklamasi",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Organisasi pemerintahan terendah pada tingkat desa adalah ....",
+    "answers": [
+      {
+        "text": "RT",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "RW",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Desa",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kelurahan",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Salah satu organisasi di tingkat sekolah lanjutan adalah OSIS. OSIS kepanjangan dari ....",
+    "answers": [
+      {
+        "text": "Organisasi Siswa Intra Sekolah",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Organisasi Siswa Ekstra Sekolah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Organisasi Siswa Intra Kelas",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Organisasi Siswa Antar Sekolah",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Organisasi pemuda yang ada di desa disebut ....",
+    "answers": [
+      {
+        "text": "OSIS",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "karang taruna",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "PKK",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "BPD",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Organisasi yang mengurusi organisasi kesehatan di sekolah dinamakan ....",
+    "answers": [
+      {
+        "text": "UKS",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Puskesmas",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "PMI",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "dokter kecil",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Orang yang tugasnya mengurusi masalah keuangan dalam suatu organisasi adalah ....",
+    "answers": [
+      {
+        "text": "ketua",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "sekretaris",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "seksi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bendahara",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Peraturan perundang-undangan tertinggi di Indonesia adalah ....",
+    "answers": [
+      {
+        "text": "Undang-Undang Dasar 1945",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "peraturan pemerintah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "ketetapan presiden",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "undang-undang",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pelajaran": "PPkn",
+    "kelas": "6",
+    "image": "",
+    "question": "Indonesia terletak di antara dua benua yaitu ....",
+    "answers": [
+      {
+        "text": "Amerika dan Australia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Asia dan Australia",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Asia dan Eropa",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Asia dan Afrika",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Salah satu kewajiban warga negara adalah ikut serta dalam usaha pertahanan dan keamanan negara. <br>Kewajiban tersebut termasuk dalam UUD 1945 ...",
+    "answers": [
+      {
+        "text": "Pasal 27 Ayat 3",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Pasal 29 Ayat 1",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Pasal 30 Ayat 1",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Pasal 31 Ayat 2",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Negara Indonesia adalah negara kesatuan yang berbentuk republik dijelaskan dalam UUD 1945 ...",
+    "answers": [
+      {
+        "text": "Pasal 1 Ayat 1",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Pasal 1 Ayat 2",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Pasal 2 Ayat 1",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Pasal 2 Ayat 2",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Norma hukum yang tidak tertulis adalah ….",
+    "answers": [
+      {
+        "text": "aturan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "tata tertib",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "adat istiadat",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "peraturan daerah",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Peraturan daerah berlaku bagi ….",
+    "answers": [
+      {
+        "text": "warga daerah setempat",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "warga secara nasional",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "semua warga",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "warga pusat",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Peraturan perundang-undangan yang dibuat dan ditetapkan oleh presiden disebut ….",
+    "answers": [
+      {
+        "text": "peraturan pemerintah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "peraturan presiden",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "UUD 1945",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Perpu",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Negara kita berdasarkan UUD 1945. Lembaga yang berhak mengesahkan sebuah undang-undang adalah ....",
+    "answers": [
+      {
+        "text": "MPR",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "presiden",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "DPR",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gubernur",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Peraturan daerah yang mengatur pemerintahan daerah propinsi dibuat oleh ....",
+    "answers": [
+      {
+        "text": "presiden bersama DPR",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "DPR bersama gubernur",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gubernur bersama DPRD",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "bupati bersama DPRD",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Pasal 31 UUD 1945 menyatakan bahwa tiap warga negara berhak mendapat ...",
+    "answers": [
+      {
+        "text": "pekerjaan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pendidikan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "perlindungan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pengamanan",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pelajaran": "PPkn",
+    "kelas": "5",
+    "image": "",
+    "question": "Presiden memiliki hak untuk mengajukan rancangan undang-undang kepada ...",
+    "answers": [
+      {
+        "text": "MPR",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "DPR",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "DPD",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "DPRD",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
     "id": 55,
     "pelajaran": "PJOK",
     "kelas": "6",
