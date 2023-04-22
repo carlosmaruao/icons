@@ -26,5 +26,362 @@
             "correct": false
         }
       ]
-    } 
+    },
+    {
+      "id" : 13,
+      "pelajaran": "Matematika",
+      "question": "Akar pangkat tiga dari 4.096 adalah ...",
+      "answers": [
+        {
+          "text": "13",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": "14",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "15",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "16",
+            "image": "",
+            "correct": true
+        }
+      ]
+    },
+    {
+      "id" : 12,
+      "pelajaran": "Matematika",
+      "question": "Lampu A menyala tiap 15 detik dan lampu B menyala setiap setiap 20 detik. Jika kedua lampu awalnya dinyalakan bersama, maka lampu itu akan menyala bersama-sama lagi setiap ... detik",
+      "answers": [
+        {
+          "text": "80",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": "75",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "70",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "60",
+            "image": "",
+            "correct": true
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "pelajaran": "Matematika",
+      "question": "KPK dari bilangan 48, 54, dan 80 adalah ...",
+      "answers": [
+        {
+          "text": " 2.160",
+          "image": "",
+          "correct": true
+        },
+        {
+            "text": "2.180",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2.260",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2.280",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "pelajaran": "Matematika",
+      "question": "FPB dari bilangan 24, 60, dan 72 adalah ...",
+      "answers": [
+        {
+          "text": "10",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": "12",
+            "image": "",
+            "correct": true
+        },
+        {
+            "text": "24",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "26",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "pelajaran": "Matematika",
+      "question": "Faktor persekutuan dari 30 dan 45 adalah ...",
+      "answers": [
+        {
+          "text": "3, 5, 7, 10",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": " 3, 5, 10, 15",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "1, 3, 5, 15",
+            "image": "",
+            "correct": true
+        },
+        {
+            "text": "3, 5, 9, 15",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "pelajaran": "Matematika",
+      "question": "Faktor prima dari bilangan 700 adalah ...",
+      "answers": [
+        {
+          "text": "2, 5, 7",
+          "image": "",
+          "correct": true
+        },
+        {
+            "text": "2, 3, 5",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2, 5",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2, 7",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "pelajaran": "Matematika",
+      "question":
+        "-24 x 99 = (-24 x 100) – (-24 x n), Nilai yang tepat untuk n adalah ...",
+      "answers": [
+        {
+          "text": "-99",
+          "image": "",
+          "correct": false
+        },
+        {
+          "text": "0",
+          "image": "",
+          "correct": true
+        },
+        {
+          "text": "1",
+          "image": "",
+          "correct": false
+        },
+        {
+          "text": "99",
+          "image": "",
+          "correct": false
+        }
+      ]
+    },
+  {
+    "id" : 6,
+    "pelajaran": "Matematika",
+    "question": "Sifat asosiatif ditunjukkan pada persamaan ...",
+    "answers": [
+      {
+        "text": "(3+6) + 4 = (6+4) + 3",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "3 + (6+4) = 3 + (4+6)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(3+6) + 4 = 3 + (6+4)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "6+4) + 3 = (4+6) + 3",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "pelajaran": "Bahasa Indonesia",
+    "question":
+      "<code>Supaya kondisi badan tetap sehat, sebaiknya masyarakat tetap bisa beraktivitas secara aktif dalam sehari-hari.</code>Dalam kalimat tersebut, makna dari istilah beraktivitas yang digunakan yaitu…",
+    "answers": [
+      {
+        "text": "Belajar",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Bekerja",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Berolahraga",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Berkegiatan",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id" : 4,
+    "pelajaran": "Bahasa Indonesia",
+    "question":
+      "<code>Kedisiplinan lalu lintas yang dimiliki oleh masyarakat Madiun cenderung menurun. Hal ini terbukti akan bertambahnya angka pelanggaran yang tercatat dalam data kepolisian. Selain itu, jumlah korban yang meninggal akan kejadian kecelakaan pun juga semakin meningkat.</code>Paragraf di atas bisa diidentifikasikan sebagai jenis teks yaitu…",
+    "answers": [
+      {
+        "text": "Deskripsi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Argumentasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Eksposisi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Narasi",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id" : 3,
+    "pelajaran": "Bahasa Indonesia",
+    "question":
+      "Tim SAR sedang <i>mengevakuasi</i> para korban bencana banjir di Bogor dengan memanfaatkan penggunaan perahu karet. <br>Makna yang dimiliki pada kata yang dicetak secara miring dalam kalimat di atas yaitu…",
+    "answers": [
+      {
+        "text": "Menyelamatkan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Memindahkan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Menyeberangkan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Menolong",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "pelajaran": "Bahasa Indonesia",
+    "question":
+      "Simak kutipan paragraf yang ada berikut ini. <code>Lila merupakan anak dari pasangan Pak Deni dan Ibu Lita. Ia hidup dengan keluarga yang bergelut dalam bidang seni karena ibunya merupakan seorang pelukis terkenal. Sementara ayahnya yaitu penari yang memiliki studio tersendiri di rumahnya. Dalam diri Lila juga mengalir darah seorang seniman yang cukup kental. Dari kecil, Lila selalu mengikuti les piano yang merupakan arahan dari orangtuanya. Hal ini dilakukan pula dari kecil karena Lila selalu menyukai seni musik dibandingkan seni tari maupun seni lukis. Harapan kedua orangtuanya yaitu agar Lila kelak dapat menjadi seorang pianis yang terkenal.</code>Dari kutipan paragraf tersebut, yang menjadi kalimat utama yaitu…",
+    "answers": [
+      {
+        "text": "Ibunya adalah seorang pelukis terkenal",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Dari kecil, Lila selalu mengikuti les piano yang merupakan arahan dari orangtuanya",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Lila merupakan anak dari pasangan Pak Deni dan Ibu Lita",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Harapan kedua orangtuanya yaitu agar Lila kelk dapat menjadi seorang pianis yang terkenal",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id" : 1,
+    "pelajaran": "Bahasa Indonesia",
+    "question":
+      "Dani merupakan  murid  kelas 6 dan seringkali menjadi contoh anak yang <i>patuh</i> terhadap kedua orangtuanya. <br>Antonim dari kata <i>patuh</i> yang digunakan dalam kalimat di atas yaitu…",
+    "answers": [
+      {
+        "text": "Nakal",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Menghormati",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Melanggar",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Berbakti",
+        "image": "",
+        "correct": false
+      }
+    ]
+  }
 ]
