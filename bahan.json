@@ -1,5 +1,157 @@
 [
   {
+    "id": 20,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Gedung Sekretariat ASEAN berada di Kota",
+    "answers": "Jakarta"
+  },
+  {
+    "id": 19,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Kerja sama ASEAN di bidang keamanan contohnya",
+    "answers": "Perjanjian politik mengenai batas-batas wilayah dan kedaulatan"
+  },
+  {
+    "id": 18,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Wakil Indonesia sebagai pendiri ASEAN adalah",
+    "answers": "Adam Malik"
+  },
+  {
+    "id": 17,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pendiri ASEAN yang berasal dari negara Thailand adalah.....",
+    "answers": "Thanat Khoman"
+  },
+  {
+    "id": 16,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pesta olahraga yang diselenggarakan di kawasan ASEAN dinamakan",
+    "answers": "SEA GAMES"
+  },
+  {
+    "id": 15,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pengiriman pertukaran belajar dan mahasiswa merupakan kerja sama dalam bidang",
+    "answers": "pendidikan"
+  },
+  {
+    "id": 14,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Bentuk kerja sama negara ASEAN bidang olahraga diwujudkan dengan mengadakan",
+    "answers": "SEA GAMES"
+  },
+  {
+    "id": 13,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Konferensi Tingkat Tinggi pertama ASEAN diselenggarakan di",
+    "answers": "Bali, Indonesia"
+  },
+  {
+    "id": 12,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Sekretariat ASEAN dipimpin oleh seseorang yang disebut",
+    "answers": "Sekretaris Jenderal"
+  },
+  {
+    "id": 11,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Organisasi ASEAN didirikan secara resmi dengan ditandai adanya",
+    "answers": "Deklarasi Bangkok"
+  },
+  {
+    "id": 10,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Kerja sama bilateral adalah",
+    "answers": "kerja sama yang hanya dilakukan oleh dua negara"
+  },
+  {
+    "id": 9,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Pada tanggal 5-8 Agustus 1967, lima menteri luar negeri mengadakan pertemuan di Negara Malaysia diwakili oleh",
+    "answers": "Tun Abdul Razak"
+  },
+  {
+    "id": 8,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "ASEAN berdiri pada pada tanggal",
+    "answers": "8 Agustus 1967"
+  },
+  {
+    "id": 7,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Negara penyelenggara KTT ASEAN ke-1 adalah",
+    "answers": "Indonesia"
+  },
+  {
+    "id": 6,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "ASEAN beranggotakan negara-negara yang memiliki kesamaan atau kedekatan dalam hal",
+    "answers": "kepentingan dan letak negara"
+  },
+  {
+    "id": 5,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Negara dengan luas wilayah terbesar di ASEAN adalah",
+    "answers": "Indonesia"
+  },
+  {
+    "id": 4,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Wakil penggagas berdirinya ASEAN dari negara Singapura adalah",
+    "answers": "S. Rajaratnam"
+  },
+  {
+    "id": 3,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Anggota ASEAN yang paling muda adalah negara",
+    "answers": "Kamboja"
+  },
+  {
+    "id": 2,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "Jumlah negara pendiri ASEAN yang menandatangani Deklarasi Bangkok adalah",
+    "answers": "5 negara"
+  },
+  {
     "id": 1,
     "pelajaran": "PPKn",
     "kelas": "6",
