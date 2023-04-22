@@ -1,32 +1,167 @@
  [ 
-  {
-    "id" : 7,
-    "pelajaran": "Matematika",
-    "question":
-      "-24 x 99 = (-24 x 100) – (-24 x n), Nilai yang tepat untuk n adalah ...",
-    "answers": [
-      {
-        "text": "-99",
-        "image": "",
-        "correct": false
-      },
-      {
-        "text": "0",
-        "image": "",
-        "correct": true
-      },
-      {
-        "text": "1",
-        "image": "",
-        "correct": false
-      },
-      {
-        "text": "99",
-        "image": "",
-        "correct": false
-      }
-    ]
-  },
+    {
+      "id" : 12,
+      "pelajaran": "Matematika",
+      "question": "Lampu A menyala tiap 15 detik dan lampu B menyala setiap setiap 20 detik. Jika kedua lampu awalnya dinyalakan bersama, maka lampu itu akan menyala bersama-sama lagi setiap ... detik",
+      "answers": [
+        {
+          "text": "80",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": "75",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "70",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "60",
+            "image": "",
+            "correct": true
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "pelajaran": "Matematika",
+      "question": "KPK dari bilangan 48, 54, dan 80 adalah ...",
+      "answers": [
+        {
+          "text": " 2.160",
+          "image": "",
+          "correct": true
+        },
+        {
+            "text": "2.180",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2.260",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2.280",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "pelajaran": "Matematika",
+      "question": "FPB dari bilangan 24, 60, dan 72 adalah ...",
+      "answers": [
+        {
+          "text": "10",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": "12",
+            "image": "",
+            "correct": true
+        },
+        {
+            "text": "24",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "26",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "pelajaran": "Matematika",
+      "question": "Faktor persekutuan dari 30 dan 45 adalah ...",
+      "answers": [
+        {
+          "text": "3, 5, 7, 10",
+          "image": "",
+          "correct": false
+        },
+        {
+            "text": " 3, 5, 10, 15",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "1, 3, 5, 15",
+            "image": "",
+            "correct": true
+        },
+        {
+            "text": "3, 5, 9, 15",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "pelajaran": "Matematika",
+      "question": "Faktor prima dari bilangan 700 adalah ...",
+      "answers": [
+        {
+          "text": "2, 5, 7",
+          "image": "",
+          "correct": true
+        },
+        {
+            "text": "2, 3, 5",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2, 5",
+            "image": "",
+            "correct": false
+        },
+        {
+            "text": "2, 7",
+            "image": "",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "pelajaran": "Matematika",
+      "question":
+        "-24 x 99 = (-24 x 100) – (-24 x n), Nilai yang tepat untuk n adalah ...",
+      "answers": [
+        {
+          "text": "-99",
+          "image": "",
+          "correct": false
+        },
+        {
+          "text": "0",
+          "image": "",
+          "correct": true
+        },
+        {
+          "text": "1",
+          "image": "",
+          "correct": false
+        },
+        {
+          "text": "99",
+          "image": "",
+          "correct": false
+        }
+      ]
+    },
   {
     "id" : 6,
     "pelajaran": "Matematika",
