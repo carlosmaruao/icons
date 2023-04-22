@@ -1,5 +1,85 @@
 [
   {
+    "id": 30,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Benda yang menggunakan magnet dan berguna menunjukkan arah adalah",
+    "answers": "Kompas"
+  },
+  {
+    "id": 29,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Kutub S dan U pada magnet jika didekatkan akan",
+    "answers": "tarik menarik"
+  },
+  {
+    "id": 28,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Gaya tarik magnet terbesar terletak pada",
+    "answers": "dua kutub magnet"
+  },
+  {
+    "id": 27,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Setiap magnet mempunyai dua kutub, yaitu",
+    "answers": "kutub utara dan kutub selatan"
+  },
+  {
+    "id": 26,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Berdasarkan asalnya, magnet dibagi menjadi dua yaitu",
+    "answers": "magnet alam dan magnet buatan"
+  },
+  {
+    "id": 25,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Daerah di sekitar magnet yang masih dipengaruhi oleh gaya tarik magnet disebut .",
+    "answers": "medan magnet"
+  },
+  {
+    "id": 24,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Gaya yang dapat menarik benda-benda tertentu disebut ",
+    "answers": "gaya magnet"
+  },
+  {
+    "id": 23,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Dua kutub magnet yang senama jika didekatkan akan",
+    "answers": "tolak menolak"
+  },
+  {
+    "id": 22,
+    "pelajaran": "Tematik",
+    "kelas": "6",
+    "image": "",
+    "question": "Cara membuat magnet dengan menempelkan benda magnetis pada magnet disebut ...",
+    "answers": "induksi"
+  },
+  {
+    "id": 21,
+    "pelajaran": "PPKn",
+    "kelas": "6",
+    "image": "",
+    "question": "negara-negara yang memprakarsai berdirinya ASEAN!",
+    "answers": "Indonesia, Malaysia, Filipina, Singapura, Thailand"
+  },
+  {
     "id": 20,
     "pelajaran": "PPKn",
     "kelas": "6",
