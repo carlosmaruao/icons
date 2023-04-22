@@ -1,5 +1,179 @@
 [
   {
+    "id": 22,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr_0001.gif",
+    "question": "Keliling gambar di atas adalah ........",
+    "answers": [
+      {
+        "text": "63 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "68 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "73 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "83 cm",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Lambang bilangan Romawi dari 1996 adalah ........",
+    "answers": [
+      {
+        "text": "MCMDCCIV",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "MMCXCVI",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "CMMXCIV",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "MCMXCVI",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Luas sebuah persegi 484 cm², maka panjang sisi persegi tersebut ........",
+    "answers": [
+      {
+        "text": "22 cm",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "33 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "44 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "55 cm",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/pie_chart.gif",
+    "question": "Jika jumlah siswa 80 orang, maka jumlah siswa yang gemar sepak bola dan basket adalah ........",
+    "answers": [
+      {
+        "text": "28 orang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "32 orang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "58 orang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "60 orang",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/koordinat_sumbu.gif",
+    "question": "Koordinat titik A pada gambar di atas adalah ........",
+    "answers": [
+      {
+        "text": "(-3, -2)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(-3, 2)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "(3, -2)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(3, 2)",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/volume_tabung.gif",
+    "question": "Volume pada gambar di atas adalah ........",
+    "answers": [
+      {
+        "text": "69.300 cm³",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "59.300 cm³",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "21.110 cm³",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "12.386 cm³",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
     "id": 16,
     "pelajaran": "Matematika",
     "kelas": "6",
@@ -90,7 +264,6 @@
     "id": 13,
     "pelajaran": "Matematika",
     "kelas": "6",
-    "image": "",
     "image": "",
     "question": "Akar pangkat tiga dari 4.096 adalah ...",
     "answers": [
