@@ -1,5 +1,13 @@
 [
   {
+    "id": 52,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Sifat Asosiatif atau Pengelompokan",
+    "answers": "<br><i>Sifat Asosiatif pada penjumlahan</i><br><br>rumus bentuk umum: (a+b) + c = a + (b +c) <br><br>Contoh:<br><br><pre>(12 + 3) + 7    = 12 + (3 +7)<br>15 + 7          = 12 + 10<br>22              = 22<br></pre><br><br><i>Sifat Asosiatif pada perkalian</i><br><br>rumus bentuk umum: (a xb) x c = a x (b x c)<br><br>Contoh:<br><br><pre>(4 x 3) x 5   = 4 x (3 x 5)<br>12 x 5        = 4 x 15<br>60            = 60<br></pre>"
+  },
+  {
     "id": 51,
     "pelajaran": "Matematika",
     "kelas": "6",
