@@ -1,4 +1,583 @@
-[
+[{
+    "id": 21020,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Penyebab harga barang-barang mahal akibat inflasi dan adanya blockade ekonomi oleh ....",
+    "answers": [
+      {
+        "text": "Belanda",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Jepang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Inggris",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Portugis",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21019,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pertempuran Surabaya pada tanggal 25 Oktober 1945 tentara sekutu yang dipimpin oleh ....",
+    "answers": [
+      {
+        "text": "Bung Tomo",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Jenderal Sudirman",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Ir. Sukarno",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Brigadir Jenderal Mallaby",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21018,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pertempuran di berbagai daerah antara pihak Indonesia dengan pihak Belanda dibantu oleh pasukan ....",
+    "answers": [
+      {
+        "text": "Jepang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Inggris",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Asia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Perancis",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21017,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perhatikan negara-negara berikut !<br><br>(1) Amerika Serikat<br>(2) Australia<br>(3) Belgia<br>(4) Belanda<br>(5) Inggris<br><br>Anggota Komisi Tiga Negara (KTN) ditunjukkan oleh nomor ....",
+    "answers": [
+      {
+        "text": "(1), (2), dan (3)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "(2), (3), dan (4)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(3), (4), dan (5)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(2), (3), dan (5)",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21016,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perhatikan pernyataan-pernyataan berikut ini! <br><br>(1) Sekutu bertindak sewenang-wenang.<br>(2) Belanda ingin menguasai Semarang.<br>(3) Ultimatum yang dibuat Sekutu agar rakyat meninggalkan Semarang.<br>(4) Terbunuhnya dr. Karyadi oleh Jepang.<br><br>Latar belakang terjadinya Pertempuran Lima Hari di Semarang ditunjukkan oleh nomor ....",
+    "answers": [
+      {
+        "text": "(1)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(2)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(3)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(4)",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21015,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Deklarasi Ekonomi (Dekon) dikeluarkan pada tanggal ....",
+    "answers": [
+      {
+        "text": "25 Maret 1963",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "28 Maret 1963",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "25 Maret 1964",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "26 Maret 1964",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21014,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Negara Kesatuan Republik Indonesia berdiri secara resmi pada tanggal ....",
+    "answers": [
+      {
+        "text": "17 Agustus 1945",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "18 Agustus 1945",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "19 Agustus 1945",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "20 Agustus 1945",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21013,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Sistem kerja paksa pada pendudukan Jepang dikenal dengan nama ....",
+    "answers": [
+      {
+        "text": "rodi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "seikerei",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "romusha",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "devide et impera ",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21012,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pada awal berdirinya Negara Republik Indonesia, keadaan ekonomi negara sangat kacau salah satunya adalah terjadi inflasi. <br>Penyebab terjadinya inflasi pada saat itu adalah ....",
+    "answers": [
+      {
+        "text": "pemerintah Indonesia menerapkan tiga mata uang sekaligus",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "peredaran mata uang Belanda yang tak terkendali",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "hasil produksi pertanian sulit diekspor",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kas negara dalam keadaan kosong",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21011,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perhatikan jabatan menteri berikut ini ! <br><br>(1) Merteri Keuangan.<br>(2) Menteri Urusan Bahan Makanan.<br>(3) Menteri Kemakmuran<br>(4) Menten Sosial<br><br>Salah satu upaya yang dilakukan pemerintah untuk memulihkan keadaan ekonomi pada awal kemerdekaan adalah melaksanakan program Kasimo Plan. <br>Program ini dicetuskan oieh menteri yang ditunjukkan oleh nomor ....",
+    "answers": [
+      {
+        "text": "(1)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(2)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "(3)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(4)",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21010,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Upaya rakyat Indonesia untuk mempertahankan kemerdekaan membuahkan hasil. <br>Belanda akhirnya menandatangani naskah pengakuan kedaulatan terhadap Indonesia.<br>Peristiwa ini menjadi momentum kemerdekaan de jure Indonesia. <br>Belanda menandatangani naskah tersebut pada tanggal ....",
+    "answers": [
+      {
+        "text": "24 Desember 1949",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "25 Desember 1949",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "26 Desember 1949",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "27 Desember 1949",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21009,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil Perundingan Linggarjati menyatakan bahwa Belanda mengakui wilayah Rl secara de facto yang meliputi ....",
+    "answers": [
+      {
+        "text": "Sumatra, Jawa, dan Bali",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Sumatra, Jawa, dan Madura",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Sumatra, Jawa, dan Kalimantan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Sumatra, Jawa, Bali, dan Nusa Tenggara",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21008,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Serangan Umum pada 1 Maret 1949 mempunyai arti penting bagi perjuangan mempertahankan kemerdekaan RI karena ....",
+    "answers": [
+      {
+        "text": "dunia internasional mengetahui bahwa pemerintah RI dan TNI masih ada",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "mengobarkan semangat tentara Belanda untuk berkuasa di Indonesia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "menguatkan perjuangan diplomasi Belanda di PBB",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Belanda mengajak Indonesia untuk kembali berunding",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21007,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pada perundingan Roem-Royen Indonesia dan Belanda menyatakan bahwa kedua negara akan mengikuti dan menyelenggarakan ....",
+    "answers": [
+      {
+        "text": "Konferensi Meja Bundar",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Konferensi Inter-Indonesia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pemerintahan bersama",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pembentukan APRIS",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21006,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perhatikan upaya mempertahankan kemerdekaan berikut ini! <br><br>(1) Perundingan Linggarjati.<br>(2) Pertempuran Margarana di Bali.<br>(3) Konferensi Meja Bundar.<br>(4) Peristiwa Merah Putih di Manado.<br><br>Upaya mempertahankan kemerdekaan Indonesia melalui jalur diplomasi ditunjukkan oleh nomor ....",
+    "answers": [
+      {
+        "text": "(1) dan (2)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(1) dan (3)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "(2) dan (3)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(2) dan (4)",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21005,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pada saat upacara Proklamasi Kemerdekaan Indonesia, bendera Merah Putih dikibarkan oleh ....",
+    "answers": [
+      {
+        "text": "Sukarni dan Sayuti Melik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Suhud dan Sukarni",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Sayuti Melik dan Suhud",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Suhud dan Latief Hendraningrat",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21004,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Makna Proklamasi Kemerdekaan RI pada tanggal 17 Agustus 1945 bagi Indonesia yang paling penting adalah ....",
+    "answers": [
+      {
+        "text": "merupakan sumber hukum nasional",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "merupakan jembatan emas bangsa Indonesia untuk menata kehidupannya",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "terbebasnya bangsa Indonesia dari belenggu penjajahan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "lahirnya NKRI yang merdeka dan berdaulat",
+        "image": "",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21003,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Naskah proklamasi hasil ketikan ditandatangani oleh Soekarno-Hatta atas nama bangsa Indonesia. <br>Hal ini merupakan saran dari ....",
+    "answers": [
+      {
+        "text": "B.M. Diah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Soekarni",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Chaerul Saleh",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Darwis",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21002,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pada tanggal 16 Agustus 1945, para pemuda membawa paksa Bung Karno dan Bung Hatta ke ....",
+    "answers": [
+      {
+        "text": "Rengasdengklok",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Rangkasbitung",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Jakarta",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Karawang",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21001,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/0010.jpeg",
+    "question": "Peristiwa pada gambar menjadi salah satu sejarah penting Negara Indonesia. <br>Peristiwa tersebut adalah ....",
+    "answers": [
+      {
+        "text": "Sumpah Pemuda.",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Proklamasi Kemerdekaan.",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Dekrit Presiden.",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Agresi Militer",
+        "image": "",
+        "correct": false
+      }
+    ]
+  },
   {
     "id": 75,
     "pelajaran": "PPKn",
