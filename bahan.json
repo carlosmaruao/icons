@@ -5,8 +5,8 @@
     "kelas": "6",
     "image": "",
     "posisi_img": "bawah",
-    "question": "Rumus Matematika Satuan Waktu",
-    "answers": "<br><ul><li>1 Menit = 60 Detik</li><li>1 Jam = 60 Menit</li><li>1 Hari = 24 Jam</li><li>1 Minggu = 7 Hari</li><li>1 Bulan = 30 Hari / 31 Hari</li><li>1 Bulan = 4 Minggu</li><li>1 Tahun = 52 Minggu</li><li>1 Tahun = 12 Bulan</li><li>1 Windu = 8 Tahun</li><li>1 Dekade = 10 Tahun</li><li>1 Dasawarsa = 10 Tahun</li><li>1 Abad = 100 Tahun</li><li>1 Milenium = 1000 Tahun</li></ul>"
+    "question": "Rumus Bangun Datar",
+    "answers": "<br><pre>Luas Persegi          = sisi x sisi = s²<br>Luas Persegi Panjang  = panjang x lebar<br>Luas Segitiga         = ½ x alas x tinggi<br>Luas Lingkaran        = π x r²<br>Luas Trapesium        = ½ x (a+b) x t<br>Luas Layang – Layang  = ½ x d1 x d2<br>Luas Jajar Genjang    = alas x tinggi<br>Luas Belah Ketupat    = ½ x d1 x d2<br></pre>"
   },
   {
     "id": 71,
@@ -30,7 +30,7 @@
     "id": 69,
     "pelajaran": "Matematika",
     "kelas": "6",
-    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr00016.webp",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr00017.webp",
     "posisi_img": "bawah",
     "question": "Membagi Pecahan",
     "answers": "<br>Mengalikan pecahan cukup mudah. Pembilang dikalikan pembilang. Penyebut dikalikan penyebut. Kalau bisa disederhanakan maka sederhanakanlah."
