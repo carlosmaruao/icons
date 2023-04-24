@@ -1,4 +1,35 @@
-[
+[{
+    "id": 56,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Menentukan Akar Pangkat 3 Bilangan Kubik",
+    "answers": "<p><pre>1<sup>3</sup> dibaca satu pangkat tiga  = 1 × 1 × 1 = 1<br>2<sup>3</sup> dibaca dua pangkat tiga   = 2 × 2 × 2 = 8<br>3<sup>3</sup> dibaca tiga pangkat tiga  = 3 × 3 × 3 = 27<br>4<sup>3</sup> dibaca empat pangkat tiga = 4 × 4 × 4 = 64<br>5<sup>3</sup> dibaca lima pangkat tiga  = 5 × 5 × 5 = 125</pre></p><p>1, 8, 27, 64, 125, dan seterusnya adalah bilangan kubik atau bilangan pangkat 3</p>"
+  },
+  {
+    "id": 55,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "KPK dan FPB pada Dua dan Tiga Bilangan",
+    "answers": "<b>Menentukan FPB dua bilangan</b><br><br>Cara menentukan FPB dua bilangan<br>– Cari faktor pad masing-masing bilangan<br>– Tentukan faktor persekutuan dari kedua bilangan<br>– Kalikan faktor persekutuan (faktor yang sama) yang memiliki pangkat paling kecil<br><br><pre>18 = 2 x 32<br>27 = 33<br>___________<br><br></pre>faktor yang sama adalah 3, yang berpangkat paling kecil adalah 32 = 9<br><br><b>Menentukan KPK dua Bilangan</b><br><br>Cara menentukan KPK dua bilangan<br>– Cari faktor prima dari masing-masing bilangan<br>– kalikan semua faktor, faktor yang sama dipilih pangkat yang laing tinggi<br><br>Contoh<br>KPK 12 dan 15<br>Faktor Prima<br>12 = 22 x 3<br>15 = 3 x 5<br>KPK = 22 x 3 x 5 = 60<br><br><i>untuk KPK dan FPB 3 bilangan caranya sama.</i>"
+  },
+  {
+    "id": 54,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Operasi Hitung Bilangan Campuran",
+    "answers": "Ketentuan operasi hitung:<br>– Jika ada kurung kerjakan yang di dalam kurung terlebih dahulu<br>– jika tidak ada kurung, perkalian dan pembagian di dahulukan adari pada penjumlahan dan pengurangan<br><br>Contoh:<br>7500 – 30 × 50 : 3 + 250<br>= 7500 – 500 – 250<br>= 6750<br><br>336 : 12 x 20 – (235 + 146)<br>= 336 : 12 x 20 – 381<br>= 28 x 20 – 381<br>= 560 – 381<br>= 179"
+  },
+  {
+    "id": 53,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Sifat Distribusif atau Penyebaran",
+    "answers": "<br><i><b>Sifat distributif perkalian terhadap penjumlahan</b></i><br><br>rumus bentuk umum :<br> a × (b + c) = (a × b) + (a × c)<br><br>Contoh:<br><br><pre>3 x (5 + 7)     = 3 x 5 + 3 x 7<br>= 15 + 21<br>= 36<br></pre><br><br><i><b>Sifat distributif perkalian terhadap pengurangan</b></i><br><br>Contoh:<br><br><pre>3 x (9 – 2)     = 3 x 9 – 3 x 2<br>= 27 – 6<br>= 21<br></pre>"
+  },
   {
     "id": 52,
     "pelajaran": "Matematika",
