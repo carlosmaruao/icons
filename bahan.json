@@ -1,10 +1,67 @@
-[{
+[
+    {
+    "id": 63,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr00012.webp", 
+    "question": "Menyederhanakan Pecahan",
+    "answers": "<br>Menyederhanakan pecahan dapat dilakukan dengan membagi pembilan dan penyebut dengan menggunakan bilangan yang sama. <br>contoh "
+  },
+  {
+    "id": 62,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Rumus Volume Bangun Ruang Kelas 6 SD",
+    "answers": "<br><pre><b>Nama Bangun Ruang           Rumus Volume</b><br>Prima tegak segitiga        V = Luas alas x Tinggi<br>Tabung                      V = phi r<sup>2</sup> x t<br></pre>"
+  },
+  {
+    "id": 61,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Menghitung Luas Bangun Datar",
+    "answers": "<br><pre><b>Bangun</b>           <b>Rumus Luas</b>Persegi Panjang         L = Panjang x Lebar<br>Jajar Genjang           L = Alas x Tinggi<br>Belah Ketupat           L = ½ x d<sub>1</sub> x d<sub>2</sub><br>Layang-Layang           L = ½x d<sub>1</sub> x d<sub>2</sub><br>Trapesium               L = ½ t × (a+b)<br>Segitiga                L = ½ alas x tinggi<br>Persegi                 L = sisi x sisi = s<sup>2 </sup><br>Lingkaran               L = phi x r<sup>2</sup><br></pre>"
+  },
+  {
+    "id": 60,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr00011.webp",
+    "question": "Satuan Waktu",
+    "answers": "<br><pre>1 abad          = 100 tahun<br>1 windu         = 8 tahun<br>1 tahun         = 12 bulan<br>1 tahun         = 52 minggu<br>1 bulan         = 4 minggu<br>1 bulan         = 4 minggu<br>1 minggu        = 7 hari<br>1 dasawarsa     = 10 tahun<br>1 dekade        = 10 tahun<br>1 milenium      = 1000 tahun<br>1 hari          = 24 jam<br>1 jam           = 60 menity<br>1 menit         = 60 detik</pre>"
+  },
+  {
+    "id": 59,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "https://raw.githubusercontent.com/carlosmaruao/icons/main/gbr00010.webp",
+    "question": "Volume dan Waktu",
+    "answers": "<b>Hubungan Satuan Volume</b><br><br>Contoh :<br>1 m<sup>3</sup> = 1.000 dm<sup>3</sup> = 1.000.000 cm<sup>3</sup> = 1.000.000.000 mm<sup>3</sup><br>1.000.000.000 m<sup>3</sup> = 1.000.000 dam<sup>3</sup> = 1.000 hm<sup>3</sup> = 1 km<sup>3</sup></p>"
+  },
+  {
+    "id": 58,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Perkalian dan Pembagian",
+    "answers": "<p><pre>2<sup>3</sup> × 4<sup>3</sup>   = (2 × 2 × 2) × (4 × 4 × 4)<br>                                = 8 × 64<br>                                = 512</pre></p><p><pre>6<sup>3</sup> : 2<sup>3</sup>   = (6 × 6 × 6) : (2 × 2 × 2)<br>                                = 216 : 8<br>                                = 27</pre></p>"
+  },
+  {
+    "id": 57,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Penjumlahan dan Pengurangan",
+    "answers": "<p><pre>2<sup>3</sup> + 3<sup>3</sup>   = (2 × 2 × 2) + (3 × 3 × 3)<br>                                = 8 + 27<br>                                = 35</p></pre><br><br><p><pre>6<sup>3</sup> – 4<sup>3</sup>   = (6 × 6 × 6) – (4 × 4 × 4)<br>                                = 216 – 64<br>                                = 152</pre></p>"
+  },
+  {
     "id": 56,
     "pelajaran": "Matematika",
     "kelas": "6",
     "image": "",
     "question": "Menentukan Akar Pangkat 3 Bilangan Kubik",
-    "answers": "<p><pre>1<sup>3</sup> dibaca satu pangkat tiga  = 1 × 1 × 1 = 1<br>2<sup>3</sup> dibaca dua pangkat tiga   = 2 × 2 × 2 = 8<br>3<sup>3</sup> dibaca tiga pangkat tiga  = 3 × 3 × 3 = 27<br>4<sup>3</sup> dibaca empat pangkat tiga = 4 × 4 × 4 = 64<br>5<sup>3</sup> dibaca lima pangkat tiga  = 5 × 5 × 5 = 125</pre></p><p>1, 8, 27, 64, 125, dan seterusnya adalah bilangan kubik atau bilangan pangkat 3</p>"
+    "answers": "<p><pre>1<sup>3</sup> dibaca satu pangkat tiga  <br>    = 1 × 1 × 1 = 1<br>2<sup>3</sup> dibaca dua pangkat tiga  <br>    = 2 × 2 × 2 = 8<br>3<sup>3</sup> dibaca tiga pangkat tiga  <br>    = 3 × 3 × 3 = 27<br>4<sup>3</sup> dibaca empat pangkat tiga  <br>    = 4 × 4 × 4 = 64<br>5<sup>3</sup> dibaca lima pangkat tiga  <br>    = 5 × 5 × 5 = 125</pre></p><br><p>1, 8, 27, 64, 125, dan seterusnya adalah bilangan kubik atau bilangan pangkat 3</p>"
   },
   {
     "id": 55,
@@ -28,7 +85,7 @@
     "kelas": "6",
     "image": "",
     "question": "Sifat Distribusif atau Penyebaran",
-    "answers": "<br><i><b>Sifat distributif perkalian terhadap penjumlahan</b></i><br><br>rumus bentuk umum :<br> a × (b + c) = (a × b) + (a × c)<br><br>Contoh:<br><br><pre>3 x (5 + 7)     = 3 x 5 + 3 x 7<br>= 15 + 21<br>= 36<br></pre><br><br><i><b>Sifat distributif perkalian terhadap pengurangan</b></i><br><br>Contoh:<br><br><pre>3 x (9 – 2)     = 3 x 9 – 3 x 2<br>= 27 – 6<br>= 21<br></pre>"
+    "answers": "<br><i><b>Sifat distributif perkalian terhadap penjumlahan</b></i><br><br>rumus bentuk umum :<br> a × (b + c) = (a × b) + (a × c)<br><br>Contoh:<br><br><pre>3 x (5 + 7)     = 3 x 5 + 3 x 7<br>                = 15 + 21<br>                = 36<br></pre><br><br><i><b>Sifat distributif perkalian terhadap pengurangan</b></i><br><br>Contoh:<br><br><pre>3 x (9 – 2)     = 3 x 9 – 3 x 2<br>                = 27 – 6<br>                = 21<br></pre>"
   },
   {
     "id": 52,
@@ -36,7 +93,7 @@
     "kelas": "6",
     "image": "",
     "question": "Sifat Asosiatif atau Pengelompokan",
-    "answers": "<br><i>Sifat Asosiatif pada penjumlahan</i><br><br>rumus bentuk umum: (a+b) + c = a + (b +c) <br><br>Contoh:<br><br><pre>(12 + 3) + 7    = 12 + (3 +7)<br>15 + 7          = 12 + 10<br>22              = 22<br></pre><br><br><i>Sifat Asosiatif pada perkalian</i><br><br>rumus bentuk umum: (a xb) x c = a x (b x c)<br><br>Contoh:<br><br><pre>(4 x 3) x 5   = 4 x (3 x 5)<br>12 x 5        = 4 x 15<br>60            = 60<br></pre>"
+    "answers": "<br><i><b>Sifat Asosiatif pada penjumlahan</b></i><br><br>rumus bentuk umum :<br> (a+b) + c = a + (b +c) <br><br>Contoh:<br><br><pre>(12 + 3) + 7    = 12 + (3 +7)<br>15 + 7          = 12 + 10<br>22              = 22<br></pre><br><br><i><b>Sifat Asosiatif pada perkalian</b></i><br><br>rumus bentuk umum : <br>(a xb) x c = a x (b x c)<br><br>Contoh:<br><br><pre>(4 x 3) x 5   = 4 x (3 x 5)<br>12 x 5        = 4 x 15<br>60            = 60<br></pre>"
   },
   {
     "id": 51,
@@ -44,7 +101,7 @@
     "kelas": "6",
     "image": "",
     "question": "Sifat Komutatif atau Pertukaran",
-    "answers": "<br><i>Sifat komutatif pada penjumlahan</i><br><br>rumus bentuk umum: a + b = b + a<br><br>Contoh:<br><br> 7 + 8 = 8 + 7 = 15<br>20 + 15 = 15 + 20 = 35<br><br><i>Sifat komutatif pada perkalian</i><br><br>rumus bentuk umum: a x b = b x a<br><br>Contoh:<br><br>4 x 5 = 5 x 4 = 20<br> 12 x 3 = 12 x 3 = 36"
+    "answers": "<br><i>Sifat komutatif pada penjumlahan</i><br><br>rumus bentuk umum :<br> a + b = b + a<br><br>Contoh:<br><br> <pre>7 + 8     = 8 + 7     = 15<br>20 + 15   = 15 + 20   = 35</pre><br><br><i>Sifat komutatif pada perkalian</i><br><br>rumus bentuk umum :<br> a x b = b x a<br><br>Contoh:<br><br><pre>4 x 5     = 5 x 4     = 20<br>12 x 3    = 12 x 3    = 36</pre>"
   },
   {
     "id": 50,
