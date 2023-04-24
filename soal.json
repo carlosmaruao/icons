@@ -1,4 +1,1820 @@
-[{
+[
+    {
+    "id": 31025,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Berikut ini yang bukan macam-macam gerhana matahari adalah ...",
+    "answers": [
+      {
+        "text": "Gerhana matahari sebagian",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Gerhana matahari total",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Gerhana matahari penumbra",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Gerhana matahari cincin",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31024,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Letak bulan, bumi, dan matahari pada saat terjadi gerhana bulan adalah ...",
+    "answers": [
+      {
+        "text": "bulan berada diantara matahari dan bumi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "bumi berada diantara matahari dan bulan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "matahari berada diantara bumi dan bulan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bulan berada dekat sekali dengan matahari",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31023,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Dalam satu kali rotasi, waktu yang dibutuhkan bumi adalah ...",
+    "answers": [
+      {
+        "text": "23 jam 56 menit 4 detik",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "47 jam 56 menit 4 detik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "29 hari",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "360 hari",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31022,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Perputaran bumi pada porosnya disebut ...",
+    "answers": [
+      {
+        "text": "rotasi bumi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "revolusi bumi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gerhana matahari",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gerhana bulan",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31021,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Perputaran bumi mengelilingi matahari disebut ...",
+    "answers": [
+      {
+        "text": "rotasi bumi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "revolusi bumi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "gerhana matahari",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "gerhana bulan",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31020,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Pusat tata surya adalah ...",
+    "answers": [
+      {
+        "text": "bumi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bulan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bintang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "matahari",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31019,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Kupu-kupu mengalami perubahan bentuk yang disebut metamorfosis sempurna. <br>Tahapan metamorfosis pada kupu-kupu diantaranya adalah telur, ulat, kepompong, dan kupu-kupu. <br>Dari tahapan tersebut yang merugikan petani adalah …",
+    "answers": [
+      {
+        "text": "ulat",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "telur",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kupu-kupu",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kepompong",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31018,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Usaha untuk menghemat energi dapat dilakukan dengan cara ...",
+    "answers": [
+      {
+        "text": "mematikan televisi ketika tidak ditonton",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "tidur dengan lampu menyala",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "menyiram tanaman setiap hari dengan air kran",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "memasak dengan peralatan listrik",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31017,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Kemampuan cicak yang dapat memutuskan ekornya disebut ...",
+    "answers": [
+      {
+        "text": "Mimikri",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Ekolokasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Adaptasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Autotomi",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31016,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Kemampuan kelelawar menggunakan suara untuk mengetahui letak suatu tempat dan makanan serta mencari jalan dinamakan ...",
+    "answers": [
+      {
+        "text": "Mimikri",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Ekolokasi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Adaptasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Autotomi",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510010,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Tokoh Belanda yang berhasil menjalankan politik devide et impera adalah ...",
+    "answers": [
+      {
+        "text": "Snouck Hourgronje",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Pieter Both",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Jan Pieterszoon Coen",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Herman Willem Daendels",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510009,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Siapakah yang mengesahkan Pancasila pada 18 Agustus 1945 ...",
+    "answers": [
+      {
+        "text": "BPUPKI",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "PPKI",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Tiga Serangkai ",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Kolonial Belanda",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510008,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "ASEAN pertama kali berdiri di ..., Thailand.",
+    "answers": [
+      {
+        "text": "Jakarta",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Bangkok",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Kuala Lumpur",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Singapura",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510007,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "ASEAN berdiri pada tanggal ...",
+    "answers": [
+      {
+        "text": "4 Juni 1960",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "6 Juli 1966",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "8 Agustus 1967",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "10 September 1970",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510006,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "S. Rajaratnam merupakan salah satu tokoh pendiri ASEAN yang berasal dari negara ...",
+    "answers": [
+      {
+        "text": "Singapura",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Indonesia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Thailand",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Malaysia",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510005,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Tun Abdul Razak merupakan salah satu tokoh pendiri ASEAN yang berasal dari negara ...",
+    "answers": [
+      {
+        "text": "Singapura",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Indonesia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Thailand",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Malaysia",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510004,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Siapa tokoh pendiri ASEAN yang berasal dari Indonesia ...",
+    "answers": [
+      {
+        "text": "Adam Malik",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Ir. Soekarno",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Ir. Soepomo",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Moh. Hatta",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510003,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Konferensi Tingkat Tinggi (KTT) pertama kali diselenggarakan pada tahun ...",
+    "answers": [
+      {
+        "text": "1955",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "1964",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "1976",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "1981",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510002,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Konferensi Tingkat Tinggi (KTT) pertama kali diselenggarakan di Indonesia, lebih tepatnya di ...",
+    "answers": [
+      {
+        "text": "Jakarta",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Bali",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Bandung",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Semarang",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 510001,
+    "pelajaran": "PPKn",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Berikut negara yang bukan merupakan pelopor berdirinya ASEAN adalah ...",
+    "answers": [
+      {
+        "text": "Indonesia",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Singapura",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Korea",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Malaysia",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41020,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "p + (-5) = -10, maka nilai p adalah ....",
+    "answers": [
+      {
+        "text": "4",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-4",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-5",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "-6",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41019,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Bilangan yang berada 4 satuan di sebelah kiri angka 3 adalah ....",
+    "answers": [
+      {
+        "text": "-2",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-1",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "-3",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-7",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41018,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Sebuah air terjun dalam waktu 15 menit dapat mengalirkan air sebanyak 21.600 m3. <br>Berapa debit air terjun tersebut:",
+    "answers": [
+      {
+        "text": "12 m3/detik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "24 m3/detik",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "36 m3/detik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "40 m3/detik",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41017,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Bu ida akan mengisi bak mandi. Bak itu dapat menampung 600 liter air bila penuh. <br>Ternyata dalam 1 jam bak air itu sudah penuh. <br>Berapakah debit air ledeng itu dalam tiap menit?",
+    "answers": [
+      {
+        "text": "10 liter",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "15 liter",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "20 liter",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "50 liter",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41016,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "53 x 3 =",
+    "answers": [
+      {
+        "text": "375",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "425",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "45",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "75",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41015,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Ina ingin membuat gelang. Ia membeli manik-manik warna merah 80 butir, hijau 75 butir, dan biru 50 butir. <br>Ina akan membuat gelang dari manik-manik tersebut dengan bagian warna yang sama. <br>Banyaknya manik-manik pada setiap gelang adalah....",
+    "answers": [
+      {
+        "text": "manik-manik merah 20, manik-manik hijau 15, manik-manik biru 10",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "manik-manik merah 18, manik-manik hijau 16, manik-manik biru 12",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "manik-manik merah 18, manik-manik hijau 15, manik-manik biru 10",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "manik-manik merah 16, manik-manik hijau 15, manik-manik biru 10",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41014,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Bus Sinar Mas berangkat dari terminal setiap 30 menit sekali. <br>Bus Harmoni berangkat dari terminal setiap 45 menit sekali, dan bus Rahmat berangkat setiap 60 menit sekali. <br>Jika ketiga bus berangkat bersama-sama pada pukul 05.00, ketiga bus akan berangkat bersama- sama lagi pada pukul ....",
+    "answers": [
+      {
+        "text": "07.00",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "08.00",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "09.00",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "10.00",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41013,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil pengerjaan dari 64 x 826 : 28 adalah ....",
+    "answers": [
+      {
+        "text": "1.678",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "1.762",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "1.888",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "1.916",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41012,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil dari 7.598 - 1.637 - 2.893 + 4.716 adalah....",
+    "answers": [
+      {
+        "text": "7.784",
+        "image": "1",
+        "correct": false
+      },
+      {
+        "text": "asd",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "asd",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "asd",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41011,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Ada 5 kotak berbentuk kubus ditumpuk. <br>2 kotak berukuran besar, 3 kotak berukuran kecil. Volume kotak besar 1.728 cm dan kotak kecil 343 cm. <br>Tinggi tumpukan kelima kotak tersebut adalah... cm",
+    "answers": [
+      {
+        "text": "40",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "45",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "50",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "60",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41010,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Sebuah pompa air mampu mengalirkan air sebanyak 100 liter setiap menitnya. <br>Jika pompa tersebut digunakan untuk mengisi kolam renang yang volumenya 15.000 dm³. <br>Maka waktu yang dibutuhkan untuk mengisi kolam renang hingga penuh adalah …",
+    "answers": [
+      {
+        "text": "1 jam",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "1,5 jam",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "2 jam",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "2,5 jam",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41009,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Terdapat dua buah tabung yang diameternya 20 cm diikat dengan tali pengikat kuat. Panjang tali pengikat tersebut adalah ... cm",
+    "answers": [
+      {
+        "text": "157",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "257",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "144",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "100",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41008,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil dari (-6)² adalah ...",
+    "answers": [
+      {
+        "text": "12",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-12",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-36",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41007,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Dua lingkaran masing-masing dengan jari-jari 17 dan 25 cm, panjang garis singgung persekutuan luarnya 15 cm, jarak antara kedua pusat lingkaran tersebut adalah ... cm",
+    "answers": [
+      {
+        "text": "12",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "17",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "23",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "35",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41006,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil dari (-5)³ adalah ...",
+    "answers": [
+      {
+        "text": "-125",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "125",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-225",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "225",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41005,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Jika sebuah persegi panjang memiliki ukuran panjang 12 cm dan lebar 6 cm, berapakah luas persegi panjang tersebut?",
+    "answers": [
+      {
+        "text": "48 cm²",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "56 cm²",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "65 cm²",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "72 cm²",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41004,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Sebuah tandon air mengalami kebocoran. Air dalam tandon berkurang 2 liter setiap satu menit. <br>Petugas baru menyadari adanya kebocoran setelah 2 jam, lalu langsung menambalnya.<br><br>Berapakah jumlah air yang keluar dari bocornya tandon tersebut?",
+    "answers": [
+      {
+        "text": "120 liter",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "200 liter",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "250 liter",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "240 liter",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41003,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Diketahui debit air terjun adalah 120/menit. Hal ini berarti bahwa ...",
+    "answers": [
+      {
+        "text": "setiap 120 liter air terjun akan habis pada satu menit",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "setiap 120 liter air terjun akan mengalir di menit pertama",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "sebanyak 120 liter air terjun mengalir di setiap menit",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "sebanyak 120 liter air terjun akan mengalir di setiap jam",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41002,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "30.000 detik = ... menit",
+    "answers": [
+      {
+        "text": "5",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "50",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "500",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "5.000",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41001,
+    "pelajaran": "Matematika",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "5 jam = ... menit",
+    "answers": [
+      {
+        "text": "300",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "3.000",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "30.000",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "300.000",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31015,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Pemerintah menciptakan gerakan One Man One Tree khususnya di daerah perkotaan. <br>Tiap individu disarankan untuk bisa menanam pohon di lahan mereka agar tercipta lingkungan hijau. <br>lingkungan hijau di perkotaan berguna untuk …",
+    "answers": [
+      {
+        "text": "Menyerap karbondioksida hasil pembakaran bahan bakar fosil",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Meredam polusi suara",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Mengurangi radiasi sinar ultraviolet",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Melancarkan pembebasan lahan demi kesejahteraan rakyat",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31014,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Perkembangbiakan generatif pada tumbuhan hanya bisa terjadi pada tumbuhan yang mempunyai ...",
+    "answers": [
+      {
+        "text": "bunga",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "batang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "daun",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "akar",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31013,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hewan pemakan serangga disebut ...",
+    "answers": [
+      {
+        "text": "herbivora",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "omnivora",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "karnivora",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "insektivora",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31012,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Untuk mendapatkan cahaya yang terang pada mikroskop , maka perlu pengaturan pada bagian ...",
+    "answers": [
+      {
+        "text": "lensa okuler dan lensa objektif",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pemutar kasar dan pemutar halus",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "diafragma dan cermin pemantul",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "pemutar kasar dan lensa objektif",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31011,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Untuk mencegah terjadinya erosi di daerah perbukitan maka para petani membuat ...",
+    "answers": [
+      {
+        "text": "Terasering",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Tanaman bakau",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Menanami padi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Kincir air",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31010,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Teknologi reproduksi yang bisa diterapkan pada kelompok hewan adalah kecuali ...",
+    "answers": [
+      {
+        "text": "kloning",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "inseminasi buatan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kawin suntik",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "kultur jaringan",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31009,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Daun adalah tempat untuk ...",
+    "answers": [
+      {
+        "text": "mengolah atau membuat makanan",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "perkembangbiakan pada tumbuhan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "pengangkut dan pernapasan bagi tumbuhan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "proses pembuahan",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31008,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Energi panas dapat dihantarkan dengan cara ...",
+    "answers": [
+      {
+        "text": "konduksi, konveksi, dan energi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "konveksi, radiasi, dan bunyi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "konduksi, konveksi, dan radiasi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "radiasi, konveksi, dan energi",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31007,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Perhatikan jenis-jenis simbiosis berikut ini !<br><br>(1) Hubungan kupu-kupu dengan bunga mawar<br>(2) Hubungan bunga anggrek dengan pohon mangga<br>(3) Hubungan tumbuhan paku dengan yang ditumpanginya<br>(4) Hubungan antara tali putri dengan tumbuhan inangnya<br><br>Hubungan simbiosis komensalisme ditunjukkan oleh nomor ...",
+    "answers": [
+      {
+        "text": "(1) dan (2)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(1) dan (3)",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "(2) dan (3)",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "(3) dan (4)",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31006,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Tanaman pisang dan tebu mempunyai kesamaan yakni dapat berkembangbiak dengan cara ...",
+    "answers": [
+      {
+        "text": "Geragih",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Tunas",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Umbi batang",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Spora",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31005,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Badak bercula satu merupakan hewan yang dilindungi di daerah Ujung Kulon, Banten. Badak bercula satu ini jumlah dan keberadaannya hanya tinggal sedikit. <br>Apabila hewan tersebut diburu secara berlebihan akan mengakibatkan ...",
+    "answers": [
+      {
+        "text": "Terjaga keseimbangan lingkungan",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Populasi semakin banyak",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Berkembang sangat pesat",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Mengalami kepunahan",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31004,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Simbiosis yang saling menguntungkan adalah simbiosis ...",
+    "answers": [
+      {
+        "text": "Mutualisme",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Komensalisme",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Parasitisme",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Organisme",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31003,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Contoh hewan yang melakukan simbiosis komensalisme adalah ...",
+    "answers": [
+      {
+        "text": "Tanaman raflesia dengan tumbuhan disekitarnya",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Burung jalak dengan kerbau",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Ikan hiu dengan ikan remora",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Tali putri dan tanaman inang",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31002,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Penanaman kembali hutan yang gundul dinamakan ...",
+    "answers": [
+      {
+        "text": "Abrasi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Erosi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Reboisasi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Tanam bersama",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 31001,
+    "pelajaran": "IPA",
+    "semester": "",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Pengikisan tanah di daerah pesisir pantai disebabkan gelombang air laut dinamakan …",
+    "answers": [
+      {
+        "text": "Tsunami",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Abrasi",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Erosi",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Banjir",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+    {
     "id": 21020,
     "pelajaran": "IPS",
     "kelas": "6",
