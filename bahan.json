@@ -1,5 +1,173 @@
 [
   {
+    "id": 51,
+    "pelajaran": "Matematika",
+    "kelas": "6",
+    "image": "",
+    "question": "Sifat Komutatif atau Pertukaran",
+    "answers": "<br><i>Sifat komutatif pada penjumlahan</i><br><br>rumus bentuk umum: a + b = b + a<br><br>Contoh:<br><br> 7 + 8 = 8 + 7 = 15<br>20 + 15 = 15 + 20 = 35<br><br><i>Sifat komutatif pada perkalian</i><br><br>rumus bentuk umum: a x b = b x a<br><br>Contoh:<br><br>4 x 5 = 5 x 4 = 20<br> 12 x 3 = 12 x 3 = 36"
+  },
+  {
+    "id": 50,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Badan tetap yang bertugas membuat rencana pembangunan ekonomi ialah .....",
+    "answers": "Badan Perancang Ekonomi"
+  },
+  {
+    "id": 49,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Bendera Merah Putih dijahit oleh ...",
+    "answers": "Ibu Fatmawati"
+  },
+  {
+    "id": 48,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Dijatuhkannya bom atom oleh tentara Amerika Serikat di kota ..",
+    "answers": "Hiroshima dan Nagasaki"
+  },
+  {
+    "id": 47,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Chaerul Saleh, Drs. Moh. Hatta, Ir. Soekarno Dari ketiga tokoh di atas, yang termasuk dari golongan muda yang menculik golongan tua Peristiwa Rengasdengklok adalah",
+    "answers": "Chaerul Saleh"
+  },
+  {
+    "id": 46,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perjanjian Linggarjati, Pertempuran Medan Area. Dari kedua upaya mempertahankan kemerdekaan di atas, yang termasuk dalam jalur fisik adalah ...",
+    "answers": "Pertempuran Medan Area"
+  },
+  {
+    "id": 45,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pemerintah membentuk Badan Koordinasi Pembangunan Ekonomi jangka panjang dengan wadah ..",
+    "answers": "Biro Perancang Negara"
+  },
+  {
+    "id": 44,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Beredarnya mata uang Jepang secara tak terkendali mengakibatkan terjadinya ",
+    "answers": "inflasi"
+  },
+  {
+    "id": 43,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Proklamasi berarti juga bahwa bangsa Indonesia telah berhasil melepaskan diri dari segala bentuk ........",
+    "answers": "penjajahan"
+  },
+  {
+    "id": 42,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Sebuah buku yang menceritakan tentang kesengsaraan rakyat Indonesia akibat tanam paksa berjudul .......",
+    "answers": "Max Havelaar"
+  },
+  {
+    "id": 41,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Peristiwa penting yang menandai kemerdekaan negara Indonesia adalah ....",
+    "answers": "Proklamasi kemerdekaan pada tanggal 17 Agustus 1945"
+  },
+  {
+    "id": 40,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Hasil Perundingan Renville ditandatangani pada tanggal ....",
+    "answers": "17 Januari 1948"
+  },
+  {
+    "id": 39,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Untuk mengenang jasa para pemuda yang telah gugur pada pertempuran di Semarang. <br>pemerintah membangun sebuah tugu yang dinamakan ...",
+    "answers": "Tugu Muda"
+  },
+  {
+    "id": 38,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Kedatangan Sekutu di Medan ini juga diboncengi NICA yang dipimpin.oleh ...",
+    "answers": "T.E.D Kelly"
+  },
+  {
+    "id": 37,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Perjuangan bangsa Indonesia untuk mempertahankan kemerdekaannya dilakukan melalui .... dan .........",
+    "answers": "Pertempuran fisik dan diplomasi (perundingan)"
+  },
+  {
+    "id": 36,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Pertempuran Margarana di Bali pada tanggal ...",
+    "answers": "20 November 1946"
+  },
+  {
+    "id": 35,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Tokoh yang mengetik teks proklamasi adalah ...",
+    "answers": "Sayuti Melik"
+  },
+  {
+    "id": 34,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Naskah proklamasi ditulis tangan oleh ....",
+    "answers": "Ir. Soekarno"
+  },
+  {
+    "id": 33,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Tokoh Jepang yang menjamin keamanan perumusan teks proklamasi adalah",
+    "answers": "Laksama Tadashi Maeda"
+  },
+  {
+    "id": 32,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Makna Proklamasi Kemerdekaan Indonesia secara formal adalah ",
+    "answers": "Indonesia adalah bangsa yang merdeka"
+  },
+  {
+    "id": 31,
+    "pelajaran": "IPS",
+    "kelas": "6",
+    "image": "",
+    "question": "Teks Proklamasi Kemerdekaan Indonesia ditandatangani oleh",
+    "answers": "Ir. Soekarno dan Moh. Hatta"
+  },
+  {
     "id": 30,
     "pelajaran": "Tematik",
     "kelas": "6",
