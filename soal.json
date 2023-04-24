@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": 31025,
     "pelajaran": "IPA",
     "semester": "",
@@ -660,6 +660,451 @@
     "pembahasan": ""
   },
   {
+    "id": 41035,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Kebun Imelda berbentuk persegi panjang dengan ukuran panjang 3,5dam dan lebar 100dm . Keliling kebun Imelda adalah…",
+    "answers": [
+      {
+        "text": "90",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "120",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "45",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "65",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": "<br><br><b>pembahasan</b><br>Karena hasilnya ditanya dalam bentuk meter, maka panjang dan lebar harus diubah satuannya.<br><pre>Panjang : 3,5 dam = 3,5 x10 = 35 m<br>Lebar : 100 dm = 100;10 = 10 m<br>Keliling  =  2 x (panjang+lebar)<br> =2x(35+10)<br>=2x45<br>= 90 m</pre><br>"
+  },
+  {
+    "id": 41034,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Hana memiliki kotak berbentuk balok dengan ukuran panjang 20 cm dan lebar 10 cm. <br>Jika volume balok tersebut 2.000 cm3 maka berapakah tinggi balok tersebut?",
+    "answers": [
+      {
+        "text": "8 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "10 cm",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "12 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "15 cm",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": "<br><br><b>pembahasan</b><br>Volume balok = p x l x t<br><br><pre> 2.000 = 20 x 10 x t<br><br>(2.000 : 200) = t<br>Maka t = 2.000 : 200 = 10 cm.</pre><br>"
+  },
+  {
+    "id": 41033,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Diketahui sebuah Iingkaran mempunyai jari – jari 50 cm. Keliling Iingkaran tersebut adalah….",
+    "answers": [
+      {
+        "text": "157 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "314 cm",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "7.550 cm",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "7.850 cm",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": "<br><br><b>pembahasan</b><br><pre>Keliling lingkaran = 2 x π x r<br><br>= 2 x 3,14 x 50<br>= 3,14 x ( 2 x 50 )<br>= 3,14 x 100<br>= 314 cm </pre><br>"
+  },
+  {
+    "id": 41032,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Melisa  membeli seutas tali sepanjang 7,25 m . <br>Sebelumnya sudah memiliki 6 3/4 m. <br>Tali tersebut digunakan 1 1/5 m. <br>Sisa tali yang terpakai adalah ....",
+    "answers": [
+      {
+        "text": "12,80 m",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "14,50 m",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "13,20 m",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "14,20 m",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": "<br><br><b>pembahasan</b><br><pre>Panjang tali sekarang (a )= 7,25 m<br>Panjang tali sebelumnya ( b )= 6 3/4 m<br>Panjang tali yang digunakan ( c )= 1 1/5 m<br><br>Bilangan dapat dioperasikan dengan yang lain apabila bentuk sama 6 3/4 menjadi 6,75 dan 1 1/5 menjadi 1,20 maka<br><br>n = ( a + b ) - c<br>n = (7,25 + 6,75 ) - 1,20<br>n = 14,00 - 1,20<br>n = 12,80<br><br>Jadi sisa tali yang terpakai adalah 12,80 m. </pre><br>"
+  },
+  {
+    "id": 41031,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "6",
+    "image": "",
+    "question": "Jika 650 +225 : (-15) = n, maka n adalah ...",
+    "answers": [
+      {
+        "text": "635",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "645",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-59",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "-675",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": "<br><br><b>pembahasan</b><br><pre>n   = 650 + ( 225 : (-15 ))<br>    = 650 + ( -15)<br>    = 650 - 15<br>    = 635</pre><br>"
+  },
+  {
+    "id": 41030,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Secara Geografi planet Saturnus memiliki jarak 1.430.000.000 km dari Matahari.<br>Dari artikel diatas berapa jarak antara planet Saturnus dengan Matahari ....",
+    "answers": [
+      {
+        "text": "satu triliun empat ratus tiga puluh miliar",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "satu triliun empat ratus tiga puluh juta",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "satu miliar empat ratus tiga puluh juta",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41029,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Perhatikan bilangan berikut!<br><br>23.450.000<br> Bilangan di atas dibaca. . .",
+    "answers": [
+      {
+        "text": "Dua puluh tiga juta empat puluh lima ribu",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "Dua puluh tiga juta empat ratus lima puluh ribu.",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "Dua juta tiga ratus empat puluh lima ribu",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41028,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Di antara pilihan jawaban berikut ini, yang merupakan bilangan bulat adalah ….",
+    "answers": [
+      {
+        "text": "0.25",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "1½",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41027,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Bilangan yang merupakan bilangan ganjil adalah....",
+    "answers": [
+      {
+        "text": "8",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41026,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Bilangan yang hanya memiliki dua faktor disebut",
+    "answers": [
+      {
+        "text": "bilangan asli",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bilangan cacah",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "bilangan prima",
+        "image": "",
+        "correct": true
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41025,
+    "pelajaran": "Ayah membeli 12 kantong kelereng untuk diberikan kepada 3 orang anaknya sama banyak. <br>Berapakah masing-masing anak mendapatkan kantong kelereng….",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "ads",
+    "answers": [
+      {
+        "text": "4 kantong",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "3 kantong",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "6 kantong",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41024,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Bu Guru membagi 800 kertas lipat sama rata kepada 100 orang, berapa lembar kertas yang akan diterima setiap anak?",
+    "answers": [
+      {
+        "text": "8",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "10",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41023,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Uang Cici 2.500 rupiah, sedangkan uang Aisyah 500 rupiah.<br>Berapa perbandingan uang Cici dengan Aisyah?",
+    "answers": [
+      {
+        "text": "2500 : 500",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "3000 : 500",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "5000 : 500",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41022,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "Sebuah perusahaan yogurt membagikan 90 buah yogurt kepada anak- anak yang berkunjung sebanyak 45 anak. <br>Masing-masing anak mendapat berapa bagian?",
+    "answers": [
+      {
+        "text": "3",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "1",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
+    "id": 41021,
+    "pelajaran": "Matematika",
+    "semester": "1",
+    "tahun": "",
+    "tema": "",
+    "kelas": "4",
+    "image": "",
+    "question": "72 : 8",
+    "answers": [
+      {
+        "text": "9",
+        "image": "",
+        "correct": true
+      },
+      {
+        "text": "8",
+        "image": "",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "image": "",
+        "correct": false
+      }
+    ],
+    "pembahasan": ""
+  },
+  {
     "id": 41020,
     "pelajaran": "Matematika",
     "semester": "1",
@@ -926,7 +1371,7 @@
   {
     "id": 41012,
     "pelajaran": "Matematika",
-    "semester": "",
+    "semester": "1",
     "tahun": "",
     "tema": "",
     "kelas": "6",
@@ -935,21 +1380,21 @@
     "answers": [
       {
         "text": "7.784",
-        "image": "1",
-        "correct": false
+        "image": "",
+        "correct": true
       },
       {
-        "text": "asd",
+        "text": "7.812",
         "image": "",
         "correct": false
       },
       {
-        "text": "asd",
+        "text": "7.856",
         "image": "",
         "correct": false
       },
       {
-        "text": "asd",
+        "text": "7.903",
         "image": "",
         "correct": false
       }
@@ -1814,7 +2259,7 @@
     ],
     "pembahasan": ""
   },
-    {
+  {
     "id": 21020,
     "pelajaran": "IPS",
     "kelas": "6",
